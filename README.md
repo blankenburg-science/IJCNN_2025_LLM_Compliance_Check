@@ -1,7 +1,9 @@
-# IJCNN_2025_LLM_Compliance_Check
+# Bridging AI and Regulation: Large Language Models for Documentation Compliance Check
 
 This is the repository for the following publication:
+
 Bridging AI and Regulation: Large Language Models for Documentation Compliance Check
+
 Quynh Tran, Josef Salg, Krystsina Sphileuskaya, Qi Wang, Larissa Putzar, Sven Blankenburg
 Conference: IJCNN 2025, Rome, Italy
 
